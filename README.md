@@ -1,2 +1,3 @@
-# my-first-web-project-freeCodeCamp-journey
-My first steps into web development! Storing my HTML practice projects from the freeCodeCamp curriculum.
+**My Coding Journey!!!""
+This is my firsy step into web development!
+I'm storing my HTML practice projects from the freeCodeCamp
